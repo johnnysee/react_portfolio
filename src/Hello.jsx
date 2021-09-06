@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 
 const Hello = () => {
   return (
@@ -8,4 +8,4 @@ const Hello = () => {
   );
 }
 
-export default Hello
+export default Hello;
